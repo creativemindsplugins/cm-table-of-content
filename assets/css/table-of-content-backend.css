@@ -1,0 +1,113 @@
+span.cmtoc_custom_selctors_label{
+    display: inline-block;
+}
+span.cmtoc_custom_selctors_label > span{
+    min-width: 42px;
+    display: inline-block;
+    text-align: right;
+}
+
+@media(max-width: 1300px){
+    span.cmtoc_custom_selctors_label > span{
+        text-align: left;
+    }
+}
+
+span.cmtoc_custom_selctors_label.header{
+    font-weight: bold;
+}
+
+.form-table.cmtoc-element-selectors td div{
+    display: inline-block;
+}
+
+.cmtoc_custom_selctors_wrapper div{
+    margin: 15px 0;
+}
+
+.table_of_content_loading {background: url('images/ajax-loader.gif') no-repeat center center;background-color: #DDD;position: absolute;width: 100%;height: 100%;opacity: 0.5;display: none;}
+.table_of_content_replacements_list tr:hover {background-color: #EEE;}
+.table_of_content_replacements_list th {font-weight: bold;}
+
+.table-of-contentSettingsTabs .block {border: 1px solid grey;border-radius: 13px;padding: 20px;margin-bottom: 5px;}
+.table-of-contentSettingsTabs .block h3 {padding-top: 0px; margin-top: 0px;}
+
+#table-of-content-exclude-box label.blocklabel,
+#table-of-content-disable-box label.blocklabel{display: block}
+
+.floated-form-table{
+    clear: none;
+}
+
+.floated-form-table tr{
+    float: left;
+    width: 49%;
+    clear: none;
+}
+
+.floated-form-table tr.whole-line{
+    width: 99%;
+}
+
+.table-of-contentSettingsTabs table th{
+    position: relative;
+    padding-right: 25px;
+}
+
+div.cmtoc_field_help{
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background-image: url('images/help.png');
+    cursor: pointer;
+    margin: 0 -20px 0 0;
+    float: right;
+}
+
+div.cmtoc_field_help:hover{
+    background-image: url('images/help_hover.png');
+}
+
+div.cmtoc_help{
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background-image: url('images/help.png');
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+div.cmtoc_help:hover{
+    background-image: url('images/help_hover.png');
+}
+
+.cm-showhide-handle{ cursor: pointer;}
+
+.server-info-table td:nth-child(3) {}
+.server-info-table span {color: green; font-weight: bold;}
+.server-info-table strong {color: red; font-weight: bold;}
+
+select#cmtoc_table_of_contentID{
+    max-width: 350px;
+}
+
+div.cminds_call_to_action{
+    display: flex;
+}
+
+div.cminds_call_to_action .inner_box{
+    border: 1px solid #999;
+    padding: 0 0.5em 0.5em;
+    margin: 0 auto;
+    min-width: 290px;
+}
+
+div.cminds_call_to_action a{
+    text-decoration: none;
+}
+
+div.cminds_settings_description{
+    float: left;
+    max-width: 55%;
+    margin-bottom: 20px;
+}

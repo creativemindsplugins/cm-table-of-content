@@ -1,0 +1,40 @@
+.cmtoc_table_of_contents_wrapper{
+    border: 0px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.cmtoc_table_of_contents_description {
+    font-size:18px;
+    padding-bottom:10px;
+}
+
+.cmtoc_table_of_contents_wrapper .foldable-button{
+    cursor: pointer;
+}
+
+.cmtoc_table_of_contents_wrapper ul.cmtoc_table_of_contents_table{
+    list-style: none;
+}
+.cmtoc_table_of_contents_wrapper ul.cmtoc_table_of_contents_table li.cmtoc_level_1{
+    margin-left: 10px;
+}
+.cmtoc_table_of_contents_wrapper ul.cmtoc_table_of_contents_table li.cmtoc_level_2{
+    margin-left: 20px;
+}
+.cmtoc_table_of_contents_wrapper ul.cmtoc_table_of_contents_table li.cmtoc_level_3{
+    margin-left: 30px;
+}
+.cmtoc_table_of_contents_wrapper ul.cmtoc_table_of_contents_table li.cmtoc_level_4{
+    margin-left: 40px;
+}
+.cmtoc_table_of_contents_wrapper ul.cmtoc_table_of_contents_table li.cmtoc_level_5{
+    margin-left: 50px;
+}
+
+.cminds_settings_description .button.cmtoc-cleanup-button{
+    color: #A00;
+}
+.cminds_settings_description .button.cmtoc-cleanup-button:hover{
+    color: #F00;
+}
