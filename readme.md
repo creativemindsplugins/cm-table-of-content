@@ -65,7 +65,7 @@ The [Premium version of the TOC Plugin](https://www.cminds.com/wordpress-plugins
  
 > [Pro Version Detailed Features List](https://www.cminds.com/wordpress-plugins-library/table-of-contents-plugin-for-wordpress/) | [Demo Site](https://www.listwp.com/table-of-contents-pro-demo/)
 
-* Automatically minimize the TOC upon page load.
+* Automatically collapse the TOC upon page load.
 * Generate a TOC for every page on the site by default.
 * Utilize distinct tags to define the TOC for each post or page.
 * Place the TOC anywhere within a post or page using a shortcode.
