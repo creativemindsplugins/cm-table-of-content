@@ -19,15 +19,14 @@ Tailor the sections using headers, CSS classes, and div/span tags. This plugin o
 
 * Transfer the plugin’s directory to the `/wp-content/plugins/` location.
 * Initiate the plugin by selecting it from the ‘Plugins’ menu in WordPress.
-* In the admin area, under the table-of-contents option, detail your terms with the page title as the term and the content area as the definition.
-* Optionally, establish a primary table-of-contents page, such as “Table of Contents,” without content for a collective term directory. Without this page, terms will be highlighted without a centralized index.
-* If desired, specify the ID of your main table-of-contents page in the plugin’s settings.
-* Additional optional settings are available for customization in the dashboard.
+* When iditing a post or a page, find the metabox ‘CM Table of Contents’. Enable the option ‘Search for Table Of Contents items on this post/page’ to display TOC at the bottom of the page.
+* Optionally, you can check the option ‘Disable automatic display of TOC at top of the content’ and display TOC in any place of the page using a shortcode [cmtoc_table_of_contents].
+* In the plugin settings, you can define the TOC title, define specific tags, classes and IDs to parse for TOC, and change the font size for different TOC header levels.
 
 ### How to Use
 
 * Effortlessly integrate a navigation table into any post or page.
-* Tailor your table of contents using designated tags and classes.
+* Tailor your table of contents using redefined tags and classes.
 * Design the table to fit user preferences or aesthetic requirements.
 
 ## TOC Plugin Premium Editions
@@ -39,13 +38,13 @@ The [Premium version of the TOC Plugin](https://www.cminds.com/wordpress-plugins
 <details><summary> <b>Expand</b> </summary>
  
 * **Automated Indexing** - Instantly generates a relevant TOC for each post, page, or custom type.
-* **TOC Customization** – Tailor the navigation index with specific tags and classes, and choose between single or dual-column displays.
+* **TOC Customization** – Tailor the navigation index with specific tags and classes.
 * **Personalized Styling** – Adapt the TOC’s design to match user preferences or brand identity.
 * **Content Structuring** – Organize your content methodically with the plugin, ideal for blog posts and articles.
 * **Navigational Aid** – Enhance user experience with a scroll-activated floating navigation DIV.
 * **Child Page Integration** (premium only) – Seamlessly link to child pages from their parent page.
 * **Enhanced Pagination** (premium only) – Guide readers through lengthy, paginated content to the precise section they need.
-* **Shortcode Flexibility** – While not necessary for use, shortcodes are available for precise TOC placement control.
+* **Shortcode Flexibility** – Optionally, use shortcodes for TOC placement control.
 
 </details>
 
@@ -69,7 +68,7 @@ The [Premium version of the TOC Plugin](https://www.cminds.com/wordpress-plugins
 * Generate a TOC for every page on the site by default.
 * Utilize distinct tags to define the TOC for each post or page.
 * Place the TOC anywhere within a post or page using a shortcode.
-* Include a “Back to the Top” feature.
+* Enable a “Back to the Top” button.
 * Assign unique tags for individual pages or posts.
 * Modify the TOC’s design elements, such as font size, color, weight, and style.
 * Compatible with Custom Post Types.
@@ -79,10 +78,10 @@ The [Premium version of the TOC Plugin](https://www.cminds.com/wordpress-plugins
 * Provide precise navigation in lengthy, paginated posts with Next Page Support.
 * Implement the TOC on any page or post.
 * Facilitate Hierarchical or Multi-Level Tables.
-* Allow for multiple TOCs on a single post or page.
-* Offer the option to activate or deactivate the TOC on specific posts or pages.
+* Add multiple TOCs on a single post or page.
+* Activate or deactivate the TOC on specific posts or pages.
 * Enable text wrapping to the left or right.
 * Display the TOC in single or dual-column layouts.
-* Show a floating TOC division when the user scrolls through the page.
+* Show a floating TOC when the user scrolls through the page.
 
 </details>
