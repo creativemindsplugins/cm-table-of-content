@@ -3,7 +3,7 @@
 * Name: CM Table Of Contents
 * Contributors: CreativeMindsSolutions
 * Minimum WordPress version: 5.4.0
-* Tested up to WordPress version: 6.5.0
+* Tested up to WordPress version: 6.6
 
 ## Introduction
 
