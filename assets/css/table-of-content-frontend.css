@@ -1,0 +1,67 @@
+.cmtoc_table_of_contents_wrapper{
+    border: 0px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.cmtoc_table_of_contents_description {
+    font-size:18px;
+    padding-bottom:10px;
+}
+
+.cmtoc_table_of_contents_wrapper .foldable-button{
+    cursor: pointer;
+}
+
+.cmtoc_table_of_contents_wrapper ul.cmtoc_table_of_contents_table{
+    list-style: none;
+}
+.cmtoc_table_of_contents_wrapper ul.cmtoc_table_of_contents_table li.cmtoc_level_1{
+    margin-left: 10px;
+}
+.cmtoc_table_of_contents_wrapper ul.cmtoc_table_of_contents_table li.cmtoc_level_2{
+    margin-left: 20px;
+}
+.cmtoc_table_of_contents_wrapper ul.cmtoc_table_of_contents_table li.cmtoc_level_3{
+    margin-left: 30px;
+}
+.cmtoc_table_of_contents_wrapper ul.cmtoc_table_of_contents_table li.cmtoc_level_4{
+    margin-left: 40px;
+}
+.cmtoc_table_of_contents_wrapper ul.cmtoc_table_of_contents_table li.cmtoc_level_5{
+    margin-left: 50px;
+}
+
+.cminds_settings_description .button.cmtoc-cleanup-button{
+    color: #A00;
+}
+.cminds_settings_description .button.cmtoc-cleanup-button:hover{
+    color: #F00;
+}
+
+.cmtoc_to_top_btn {
+    position: fixed;
+    width: 40px;
+    height: 40px;
+    line-height: 1;
+    cursor: pointer;
+    z-index: 9999999999;
+	box-sizing: content-box;
+	background: #fff;
+	border: 1px solid #cecece;
+	right: 10px;
+	bottom: 10px;
+}
+.cmtoc_to_top_btn a,
+.cmtoc_to_top_btn a:hover,
+.cmtoc_to_top_btn a:active  {
+    text-decoration: none;
+}
+.cmtoc_to_top_btn a:focus {
+    outline: none;
+}
+.cmtoc_to_top_btn .cmtoc_btn-text {
+	color: #111;
+	font-size: 14px;
+	padding: 10px;
+}
