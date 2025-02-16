@@ -3,11 +3,13 @@
 * Name: CM Table Of Contents
 * Contributors: CreativeMindsSolutions
 * Minimum WordPress version: 5.4.0
-* Tested up to WordPress version: 6.6
+* Tested up to WordPress version: 6.7.2
 
 ## Introduction
 
 [Premium Plugin Page](https://www.cminds.com/wordpress-plugins-library/table-of-contents-plugin-for-wordpress/) | [Video](https://vimeo.com/130259229) | [Demo](https://www.listwp.com/cm-table-of-content-demo-main-menu/) | [User Guide](https://creativeminds.helpscoutdocs.com/category/271-table-of-contents-cmtoc) 
+
+⭐ The new CM Table of Contents is here! Now with a Setup Wizard for easy setup, plus “Back to Top” buttons, list type selection, and improved styling options. Elevate your content navigation today!
 
 **Design a user-friendly table of contents for your WordPress website, allowing for easy content navigation.**
 
@@ -54,7 +56,13 @@ The [Premium version of the TOC Plugin](https://www.cminds.com/wordpress-plugins
 
 * Set up the TOC with tags, classes, or IDs.
 * Rename the Table of Contents.
-* Change the size of the text in the navigation table easily.
+* Supports Basic TOC styling.
+* Change the TOC font color and size.
+* Insert TOC in any specific location with a shortcode.
+* Define the list elements type of the TOC.
+* Display “Back to the Top” Button.
+* Change the appearance of the “Back to the Top” Button.
+* Setup Wizard helps configure the plugin quickly and easily.
 
 </details>
 
@@ -68,7 +76,6 @@ The [Premium version of the TOC Plugin](https://www.cminds.com/wordpress-plugins
 * Generate a TOC for every page on the site by default.
 * Utilize distinct tags to define the TOC for each post or page.
 * Place the TOC anywhere within a post or page using a shortcode.
-* Enable a “Back to the Top” button.
 * Assign unique tags for individual pages or posts.
 * Modify the TOC’s design elements, such as font size, color, weight, and style.
 * Compatible with Custom Post Types.
